@@ -93,7 +93,7 @@ The College Admission Agent has been successfully deployed and is fully function
 
 ## 🚀 Future Scope
 
-- 🌍 **Multilingual Admission Support** (Hindi, Bengali, etc.)
+- 🌍 **Multilingual Admission Support** 
 - 🎙️ **Voice-Activated Query Handling**
 - 🔁 **Real-Time Updates from University Portals**
 - 🎯 **Personalized Course & College Recommendations**
@@ -112,7 +112,7 @@ This project demonstrates how **AI can enhance accessibility, reduce manual work
 ---
 ## 🙌 Acknowledgements
 
-Developed with ❤️ by:  
+Developed with by:  
 **Priyanka Priyadarshani Pradhan**  
 B.Tech CSE (Data Science), ITER, SOA University  
 As part of **IBM Hackathon 2025**
