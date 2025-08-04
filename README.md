@@ -76,14 +76,20 @@ This AI agent improves accessibility, reduces manual inquiries, and enhances the
 ✅ Tested with real user queries (eligibility, fees, deadlines)  
 ✅ Agent retrieves correct answers from source documents  
 ✅ Fully functional on **IBM Cloud Free Tier**
+
+The College Admission Agent has been successfully deployed and is fully functional on **IBM Cloud Lite (Free Tier)**.
 ![Deployed College Admission Agent](pic1.png)
+
+*The AI agent is live and responding to user queries about admissions, courses, fees, and deadlines — powered by IBM watsonx and Retrieval-Augmented Generation (RAG).*
 
 ![Deployed College Admission Agent](pic2.png)
 
 ![Deployed College Admission Agent](pic3.png)
 
-![Deployed College Admission Agent](pic 5.png)
+![Deployed College Admission Agent](pic5.png)
 
+
+*API endpoint configuration in IBM watsonx.ai for integrating the College Admission Agent with external applications.*
 ![Deployed College Admission Agent](pic4.png)
 
 
@@ -98,3 +104,20 @@ This AI agent improves accessibility, reduces manual inquiries, and enhances the
 - 🎯 **Personalized Course & College Recommendations**
 - 🔄 **Integration with Application Submission Platforms**
 - ✅ **AI-Based Eligibility and Document Validation**
+
+---
+## 📝 Conclusion
+
+The College Admission Agent simplifies the admission process by providing **instant, accurate answers** using AI and institutional documents.  
+Built with **IBM Cloud Lite** and **IBM Granite LLM**, it offers a **no-cost, no-code solution** ideal for educational institutions.  
+Its **scalable, document-based design** makes it adaptable for multiple colleges and programs.  
+This project demonstrates how **AI can enhance accessibility, reduce manual work, and improve the student experience** in admissions — while automating repetitive tasks like data extraction and policy lookup.
+
+
+---
+## 🙌 Acknowledgements
+
+Developed with ❤️ by:  
+**Priyanka Priyadarshani Pradhan**  
+B.Tech CSE (Data Science), ITER, SOA University  
+As part of **IBM Hackathon 2025**
