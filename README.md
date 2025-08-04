@@ -37,8 +37,8 @@ This AI agent improves accessibility, reduces manual inquiries, and enhances the
  - **IBM Cloud Watsonx AI Studio** - Build and train the AI agent
  - **IBM Cloud Watsonx AI Runtime** - Run the agent with Granite LLM 
  - **IBM Cloud Agent Lab** - No-code interface to create chatbot 
- - **IBM Granite Foundation Model** - `ibm/granite-13b-chat-v2` for response generation 
- - **IBM Cloud Object Storage** - Store admission documents (PDFs, policies) 
+ - **IBM Granite Foundation Model** 
+ - **IBM Cloud Object Storage** 
  - **IBM IAM (Identity & Access Management)** - Secure access control 
 
 ---
@@ -46,7 +46,7 @@ This AI agent improves accessibility, reduces manual inquiries, and enhances the
 ## 🌟 Wow Factors
 
 ✅ **Interactive chatbot** for real-time admission guidance  
-✅ **Accurate responses** using uploaded policy documents (no hallucinations)  
+✅ **Accurate responses** using uploaded policy documents  
 ✅ **No-code development** via **Watsonx Agent Lab**  
 ✅ Runs **100% on IBM Cloud Lite (Free Tier)** – zero cost  
 ✅ **Scalable & customizable** for any college or program  
