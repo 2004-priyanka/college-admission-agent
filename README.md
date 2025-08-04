@@ -115,4 +115,3 @@ This project demonstrates how **AI can enhance accessibility, reduce manual work
 Developed with by:  
 **Priyanka Priyadarshani Pradhan**  
 B.Tech CSE (Data Science), ITER, SOA University  
-As part of **IBM Hackathon 2025**
