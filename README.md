@@ -76,6 +76,15 @@ This AI agent improves accessibility, reduces manual inquiries, and enhances the
 ✅ Tested with real user queries (eligibility, fees, deadlines)  
 ✅ Agent retrieves correct answers from source documents  
 ✅ Fully functional on **IBM Cloud Free Tier**
+![Deployed College Admission Agent](pic1.png)
+
+![Deployed College Admission Agent](pic2.png)
+
+![Deployed College Admission Agent](pic3.png)
+
+![Deployed College Admission Agent](pic 5.png)
+
+![Deployed College Admission Agent](pic4.png)
 
 
 
