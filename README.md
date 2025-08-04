@@ -1,14 +1,9 @@
-# college-admission-agent-
+# College-Admission-Agent
 An AI-powered RAG-based College Admission Assistant using IBM Cloud and Granite LLM
 # 🎓 College Admission Agent  
 [![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-3C6CD4?style=for-the-badge&logo=ibm&logoColor=white)](https://cloud.ibm.com)
 [![watsonx.ai](https://img.shields.io/badge/watsonx.ai-0066FF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/watsonx)
 [![No-Code AI](https://img.shields.io/badge/No--Code%20AI-1A9FFF?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/watsonx-ai)
-
-> **IBM Hackathon 2025 Project**  
-> **Student**: Priyanka Priyadarshani Pradhan  
-> **Department**: B.Tech Computer Science and Engineering (Data Science)  
-> **College**: ITER, Siksha 'O' Anusandhan (SOA) University
 
 An AI-powered **College Admission Agent** built using **Retrieval-Augmented Generation (RAG)** on **IBM Cloud Lite (Free Tier)**. This no-code solution provides instant, accurate answers to student queries by retrieving real-time information from institutional documents — simplifying admissions and enhancing transparency.
 
